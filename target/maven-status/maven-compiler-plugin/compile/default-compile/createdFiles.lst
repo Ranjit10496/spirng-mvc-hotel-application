@@ -1,0 +1,6 @@
+com\sunglowsys\repository\HotelRepository.class
+com\sunglowsys\domain\Hotel.class
+com\sunglowsys\service\HotelService.class
+com\sunglowsys\service\HotelServiceImpl.class
+com\sunglowsys\resource\HotelResource.class
+com\sunglowsys\ApplicationHotel.class
